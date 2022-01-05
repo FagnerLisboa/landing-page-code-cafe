@@ -8,8 +8,9 @@
     font-family: 'Source Serif Pro', serif;
 }
 
-*{
+a{
     text-decoration: none;
+    color: black;
 }
 
 ul{
